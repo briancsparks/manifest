@@ -16,7 +16,16 @@
           path="netlab/netlab-server"
           name="IPGPTP/netlab" />
 
+  <project
+	  path="netlab/netlabjs"
+	  name="IPGPTP/netlabjs" />
 
+  <!--
+       Pull functionality out of river
+       t3-view
+       other viewers
+       the react-native build
+       -->
 
 </manifest>
 
